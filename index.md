@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+---
+
 # Hello, World!
 
 This is perhaps my first webpage, and I haven't deside what to say...
